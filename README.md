@@ -1,5 +1,7 @@
 # FirstGemJoe
 
+[![Gem Version](https://badge.fury.io/rb/first_gem_joe.png)](http://badge.fury.io/rb/first_gem_joe)
+
 TODO: Write a gem description
 
 ## Installation
